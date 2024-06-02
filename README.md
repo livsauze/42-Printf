@@ -11,6 +11,7 @@ By completing this project you will gain a great understanding of how printf() w
 ## FUNCTION PROTOTYPE 
 
 Your ft_printf has the following prototype : `int ft_printf(const char *, ...);`.
+
 You will discover what's a variadic function. 
 
 ft_printf has to handle the following conversions : 
